@@ -5,7 +5,7 @@ export default function Page() {
       <h1>CPRG 306:Web Development 2 - Assignments</h1>
       
       <section>
-      <Link href="/week-2">week-2</Link>
+      <Link href='http://localhost:3000/week-2'>week-2</Link>
       </section>
     </main>
   )
