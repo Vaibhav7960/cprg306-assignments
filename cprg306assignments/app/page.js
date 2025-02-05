@@ -7,6 +7,9 @@ export default function Page() {
       <section>
       <Link href='http://localhost:3000/week-2'>week-2</Link>
       </section>
+      <section>
+      <Link href='http://localhost:3000/week-3'>week-3</Link>
+      </section>
     </main>
   )
 };
