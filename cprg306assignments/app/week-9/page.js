@@ -1,5 +1,5 @@
 // Import the useUserAuth hook
-import { useUserAuth } from "./_utils/auth-context";
+import { useUserAuth } from "../week-10/_utils/auth-context";
  
 // Use the useUserAuth hook to get the user object and the login and logout functions
 const { user, gitHubSignIn, firebaseSignOut } = useUserAuth();
